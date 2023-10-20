@@ -5,3 +5,4 @@
 ### Mean&Lean_Logo.png is meant for use as a logo for a website
 ## AdditionFlowchart made to visualize the concept of addition of numbers: file:///C:/Users/Monst/Downloads/AdditionVisualization.pdf
 ##FileName: My W3School Python code: file:///C:/Users/Monst/Downloads/Python.pdf
+### FlowerClass chart made to visualize methods and attributes to a flower through an OOP: file: file:///C:/Users/Monst/Downloads/JadenMillerFlowerClass.pdf
